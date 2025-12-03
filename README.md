@@ -5,7 +5,7 @@
 
 This is an implementation of the following paper. ["Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning"](https://arxiv.org/abs/2511.14249) (Accepted by AAAI 2026)
 
-[Rui Liu](https://ttslr.github.io/people.html), [Yuan Zhao], [Zhenqi Jia]
+[Rui Liu](https://ttslr.github.io/people.html), Yuan Zhao, Zhenqi Jia
 
 
 
