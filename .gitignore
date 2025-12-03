@@ -1,0 +1,19 @@
+# --- macOS 系统垃圾文件 (最重要) ---
+._*
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+.Trashes
+
+# --- Python 项目常见垃圾 ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.egg-info/
+
+# --- IDE 配置 (可选，如果你用 VSCode) ---
+.vscode/
