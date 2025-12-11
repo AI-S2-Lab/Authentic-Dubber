@@ -12,7 +12,7 @@ This is an implementation of the following paper. ["Towards Authentic Movie Dubb
 
 ## Demo Page
 
-[Speech Demo](https://moviedubbing.github.io/Authentic-Dubber-Web/)
+[Speech Demo](https://ai-s2-lab.github.io/Authentic-Dubber-Web/)
 
 
 
