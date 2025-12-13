@@ -5,7 +5,7 @@
 
 [Rui Liu](https://ttslr.github.io/people.html)<sup>1</sup>, Yuan Zhao<sup>1</sup>, Zhenqi Jia<sup>1</sup>
 
-<sup>1</sup> [S2LAB](https://ttslr.github.io/)
+<sup>1</sup> [S2LAB](https://ttslr.github.io/), College of Computer Science, Inner Mongolia University, Hohhot, China
 
 *(Accepted by AAAI 2026)*
 
