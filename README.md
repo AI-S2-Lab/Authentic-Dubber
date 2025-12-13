@@ -45,7 +45,7 @@ We recommend using Anaconda to manage the environment.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/Authentic-Dubber.git
+git clone https://github.com/AI-S2-Lab/Authentic-Dubber.git
 cd Authentic-Dubber
 
 # Create environment (Example)
